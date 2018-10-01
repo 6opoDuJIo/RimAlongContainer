@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace RimAlongDIContainer
 {
-    public class Class1
+    public enum SessionState
     {
+        Unk,
+        Lobbie,
+        SomeoneIsLoading,
+        ActionPhase,
+        PausedByAnyReason,
+        VolatileState
     }
 }
