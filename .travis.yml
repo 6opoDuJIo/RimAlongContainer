@@ -3,5 +3,5 @@ solution: RimAlongDIContainer.sln
 
 addons:
   artifacts: true
-    s3_region: "us-east-2" # defaults to "us-east-1"
+  s3_region: "us-east-2" # defaults to "us-east-1"
 
