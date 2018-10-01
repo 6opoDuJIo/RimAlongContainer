@@ -1,4 +1,4 @@
-anguage: csharp
+language: csharp
 solution: RimAlongDIContainer.sln
 
 addons:
