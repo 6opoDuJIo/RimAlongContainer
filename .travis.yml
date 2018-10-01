@@ -1,5 +1,2 @@
 anguage: csharp
 solution: RimAlongDIContainer.sln
-
-addons:
-  artifacts: true
